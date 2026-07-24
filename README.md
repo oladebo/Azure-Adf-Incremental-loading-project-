@@ -1,0 +1,1 @@
+# Azure-Data-Factory-Project-On-Incremental-Loading
