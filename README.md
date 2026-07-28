@@ -11,9 +11,9 @@ using an upsert (Insert & Update) approach.
 
 ### Architecture
 
-![image alt](https://github.com/oladebo/Azure-Adf-Incremental-loading-project-/blob/56bbbe5684c5576d018353eb5fbd7f4ee32fda54/Screen%20Shot%202026-07-28%20at%2008.13.20.png)
+![image alt](https://github.com/oladebo/Azure-Adf-Incremental-loading-project-/blob/827f402672e902dabbb5df5ace64697715f41c5c/Screen%20Shot%202026-07-28%20at%2008.36.04.png)
 
-![image alt](https://github.com/oladebo/Azure-Adf-Incremental-loading-project-/blob/56bbbe5684c5576d018353eb5fbd7f4ee32fda54/Screen%20Shot%202026-07-28%20at%2008.19.16.png)
+![image alt](https://github.com/oladebo/Azure-Adf-Incremental-loading-project-/blob/827f402672e902dabbb5df5ace64697715f41c5c/Screen%20Shot%202026-07-28%20at%2008.37.11.png)
 
 
 ### Features
