@@ -60,3 +60,6 @@ This project demonstrates a modern Azure real-time data integration solution usi
 from a REST API, applying incremental loading, and performing upsert operations on the Order table, the pipeline 
 ensures accurate, efficient, and scalable data processing. The solution minimizes manual effort, improves data quality, and
 enables organizations to make faster, data-driven decisions through reliable and up-to-date data.
+
+By Oladebo Ayanniyi
+Cloud Data Engineer
