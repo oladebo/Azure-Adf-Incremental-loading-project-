@@ -37,7 +37,7 @@ Support real-time reporting and analytics.
 
 ### Solution
 
-- The solution uses Azure Data Factory to automate the complete ETL process.
+- The solution uses Azure Data Factory to automate the complete process.
 
 During each pipeline execution:
 
