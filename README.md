@@ -11,6 +11,10 @@ using an upsert (Insert & Update) approach.
 
 ### Architecture
 
+![image alt](https://github.com/oladebo/Azure-Adf-Incremental-loading-project-/blob/56bbbe5684c5576d018353eb5fbd7f4ee32fda54/Screen%20Shot%202026-07-28%20at%2008.13.20.png)
+
+![image alt](https://github.com/oladebo/Azure-Adf-Incremental-loading-project-/blob/56bbbe5684c5576d018353eb5fbd7f4ee32fda54/Screen%20Shot%202026-07-28%20at%2008.19.16.png)
+
 
 ### Features
 Real-time API data ingestion
