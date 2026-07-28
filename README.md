@@ -1,6 +1,6 @@
 ## Azure Real-Time Incremental Data Pipeline Using Azure Data Factory
 
--- Project Overview
+- Project Overview
 
 This project demonstrates an end-to-end Azure real-time data pipeline that ingests data from an external REST API (JSON format),
 processes only new or updated records using an incremental loading strategy, and stores the data in SQL Server/Azure SQL Database for 
