@@ -27,7 +27,7 @@ SQL-based reporting
 Organizations receive continuous data from external APIs, but manually downloading, cleaning, and loading 
 this data into databases is time-consuming and prone to errors.
 
--- The business requires an automated solution to:
+- The business requires an automated solution to:
 
 Retrieve the latest API data.
 Process only new or modified records.
@@ -37,7 +37,7 @@ Support real-time reporting and analytics.
 
 ### Solution
 
--- The solution uses Azure Data Factory to automate the complete ETL process.
+- The solution uses Azure Data Factory to automate the complete ETL process.
 
 During each pipeline execution:
 
